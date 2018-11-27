@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Following Github Pages Tutorial
 
-I'm glad you are here. I plan to talk about ...
+This page was set up by the github pages tutorial.
